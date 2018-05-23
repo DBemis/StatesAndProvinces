@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Paul G Brown</Authors>
+    <Company>Paul G Brown</Company>
+    <Product>States &amp; Provinces</Product>
+    <Copyright>Copyright ©  2013 Paul G Brown</Copyright>
+    <Description>A library for creating lists of states and provinces.</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DBemis/StatesAndProvinces</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
