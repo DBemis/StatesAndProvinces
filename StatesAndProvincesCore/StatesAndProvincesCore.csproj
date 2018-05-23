@@ -6,6 +6,7 @@
     <Authors>Paul G Brown</Authors>
     <Company>Paul G Brown</Company>
     <Product>States &amp; Provinces</Product>
+	<Title>StatesAndProvincesCore</Title>
     <Copyright>Copyright ©  2013 Paul G Brown</Copyright>
     <Description>A library for creating lists of states and provinces.</Description>
     <PackageProjectUrl></PackageProjectUrl>
